@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at 🌐 [Severaltool.com](https://severaltool.vercel.app)
 
-- 🌱 I’m currently learning **React Native** 📱
+- 🌱 I’m currently working with **React Native** 📱
 - 📫 How to reach me **nahuelgaleano7778ng7@gmail.com**
 
 

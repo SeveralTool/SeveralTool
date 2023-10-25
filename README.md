@@ -112,9 +112,9 @@
   </a>
 <a href="https://htmx.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ay1mbuwdqcbku4k5dhkn"
+    src="https://www.drupal.org/files/project-images/Screenshot%202023-05-12%20at%2016.22.10.png"
     alt="htmx"
-    width="50"
+    width="70"
     height="40"
   />
 </a>

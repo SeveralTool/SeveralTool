@@ -110,8 +110,15 @@
       height="40"
     />
   </a>
+<a href="https://htmx.org/" target="_blank" rel="noreferrer">
+  <img
+    src="[https://example.com/ruta-de-tu-imagen-de-htmx.png](https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ay1mbuwdqcbku4k5dhkn)"
+    alt="htmx"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
-
 <p>
   <img
     align="left"

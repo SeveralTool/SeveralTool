@@ -114,7 +114,7 @@
   <img
     src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ay1mbuwdqcbku4k5dhkn"
     alt="htmx"
-    width="40"
+    width="50"
     height="40"
   />
 </a>

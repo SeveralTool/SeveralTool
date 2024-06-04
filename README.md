@@ -1,5 +1,5 @@
 <img align="right" width="20%" height="10%" border-radius="50" src="https://github.com/SeveralTool/SeveralTool/blob/main/assets/face1.png"/>
-<h1 align="left">Hi 👋, I'm Nahuel Galeano</h1>
+<h1 align="left">Hi 👋, I'm Nahuel</h1>
 <h3 align="left">Software Developer (Web 💻 | Android 📲) | React Native, JavaScript, React, Python | Software engineering student 📚</h3>
 
 

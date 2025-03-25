@@ -1,6 +1,6 @@
 <img align="right" width="20%" height="10%" border-radius="50" src="https://github.com/SeveralTool/SeveralTool/blob/main/assets/face1.png"/>
 <h1 align="left">Hi 👋, I'm Nahuel</h1>
-<h3 align="left">Software Developer (Android 📲 | Web 💻  | iOS 📲) | React Native, JavaScript, TypeScript, Python | Software engineering student 📚</h3>
+<h3 align="left">Software Developer (Android 📲 | Web 💻  | iOS 📲) | React Native, TypeScript, Python | Software engineering student 📚</h3>
 
 
 - 👨‍💻 All of my projects are available at 🌐 [Severaltool.com](https://severaltool.vercel.app)
